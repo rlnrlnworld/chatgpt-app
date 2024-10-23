@@ -1,3 +1,5 @@
+![제목 없음](https://github.com/user-attachments/assets/98aa309a-0f60-46f8-82e1-b6c26e5d4dab)
+
 # 💬 Gemini 기반 AI 챗 서비스
 
 이 프로젝트는 **Flutter**와 **Gemini API**를 사용하여 간단한 AI 챗봇 애플리케이션을 구현한 예제입니다. <br/>사용자는 Gemini API를 통해 자연스러운 대화를 나눌 수 있습니다.
@@ -37,10 +39,14 @@
 ```
 
 ## 💻 사용 기술
+
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/google_gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+
 - **Flutter**: 프론트엔드 및 사용자 인터페이스 구현
 - **Gemini API**: AI 챗봇 응답 생성
 - **Dart**: 로직 및 상태 관리
-- **Vercel**: 배포 및 호스팅 (예정)
 
 ## ⚙️ 설치
 1. 레포지토리 클론:
