@@ -4,7 +4,7 @@
 
 ## 📑 목차
 1. [프로젝트 소개](#-프로젝트-소개)
-2. [프로젝트 구조](#-프로젝트-구조)
+2. [프로젝트 구조](https://github.com/rlnrlnworld/chatgpt-app/blob/main/README.md#%EF%B8%8F-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
 3. [사용 기술](#-사용-기술)
 4. [설치](#-설치)
 5. [사용 방법](#-사용-방법)
